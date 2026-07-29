@@ -16,11 +16,14 @@ AutoSave Mindstorms automatically saves LEGO MINDSTORMS projects in the backgrou
 1. Download the latest release.
 2. Run the executable.
 
-### Start with Windows 10/11
+### Configuration
 
-1. Press Win + R.
-2. Type `shell:startup` and press Enter.
-3. Copy the AutoSave Mindstorms executable or shortcut to the opened folder.
+1. Open **Settings**.
+2. Set the automatic save interval.
+3. Customize the notification text (optional).
+4. Enable or disable notifications.
+5. Choose whether the program starts automatically with Windows.
+6. Changes are saved automatically.
 
 ---
 
@@ -40,8 +43,11 @@ AutoSave Mindstorms salva automaticamente projetos do LEGO MINDSTORMS em segundo
 1. Baixe a versão mais recente.
 2. Execute o arquivo.
 
-### Iniciar com o Windows 10/11
+### Configuração
 
-1. Pressione Win + R.
-2. Digite `shell:startup` e pressione Enter.
-3. Copie o executável ou atalho do AutoSave Mindstorms para a pasta aberta.
+1. Abra **Configurações**.
+2. Defina o intervalo entre os salvamentos automáticos.
+3. Personalize o texto da notificação (opcional).
+4. Ative ou desative as notificações.
+5. Escolha se o programa deve iniciar automaticamente com o Windows.
+6. As alterações são salvas automaticamente.
