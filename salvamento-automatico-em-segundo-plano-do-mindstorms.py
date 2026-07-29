@@ -16,7 +16,7 @@ CONFIG_PADRAO = {
     "time": 60,
     "segundo_plano": True
 }
-DRIVE = Path.home().drive
+DRIVE = Path.cwd().anchor
 CAMINHO = Path(DRIVE) / "C1Studios" / "saspmindstorms" / "config"
 ARQUIVO = CAMINHO / "config.json"
 global _NOTIFICACOES_ATIVO
